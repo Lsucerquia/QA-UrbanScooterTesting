@@ -31,7 +31,6 @@ Proyecto de **Quality Assurance (QA)** enfocado en la validación funcional de u
 * Pruebas positivas y negativas
 * Pruebas funcionales
 * Pruebas exploratorias
-* Pruebas de regresión
 * Pruebas de API
 
 ## 🛠️ Herramientas utilizadas
